@@ -10,13 +10,61 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Calc/CalcUITests/ StepDefinition.swift"
-            timestampString = "540631891.995151"
+            timestampString = "540648857.632521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
             landmarkName = "defineSteps()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared Code/CalculatorKitTests.swift"
+            timestampString = "540648857.632846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "testClearTwice()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorKitTests.CalculatorKitTests.testClearTwice() -&gt; ()"
+                  moduleName = "CalculatorKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrpolishchuk/Developer/Calc/Shared%20Code/CalculatorKitTests.swift"
+                  timestampString = "540648769.907396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "2611">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Int in CalculatorKitTests.CalculatorKitTests.testClearTwice() -&gt; ()"
+                  moduleName = "CalculatorKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrpolishchuk/Developer/Calc/Shared%20Code/CalculatorKitTests.swift"
+                  timestampString = "540648769.910365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
